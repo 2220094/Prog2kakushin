@@ -4,6 +4,6 @@
 
 ## プログラム一覧
 
-- [work1]()（pandasを使って2023年のカレンダーを表示するするプログラム）
-- [work2]()（numpyを使ってゲームのガチャシミュレーションをするプログラム）
-- [work3]()（opencvを使ってクイズを出題するプログラム）
+- [work1](https://github.com/2220094/Prog2kakushin/blob/main/work1.ipynb)（pandasを使って2023年のカレンダーを表示するするプログラム）
+- [work2](https://github.com/2220094/Prog2kakushin/blob/main/work2.ipynb)（numpyを使ってゲームのガチャシミュレーションをするプログラム）
+- [work3](https://github.com/2220094/Prog2kakushin/blob/main/work3.ipynb)（opencvを使ってクイズを出題するプログラム）
